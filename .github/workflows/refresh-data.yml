@@ -1,0 +1,46 @@
+name: Refresh App Data
+
+on:
+  schedule:
+    # Runs once daily at 06:00 UTC (cron uses UTC time)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # Adds a "Run workflow" button in the Actions tab so you can test manually anytime
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies (if you have a requirements.txt)
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run refresh script
+        # Replace this with your actual script, e.g. python scripts/update_data.py
+        run: |
+          python scripts/update_data.py
+
+      - name: Commit and push updated files if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No data changes detected."
+          else
+            git commit -m "chore: refresh app data"
+            git push
+          fi
