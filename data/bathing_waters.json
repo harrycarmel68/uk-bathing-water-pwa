@@ -1,0 +1,4642 @@
+[
+  {
+    "id": "ukd5300-41300",
+    "name": "Ainsdale",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005960",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41300/year/2025",
+    "lat": 53.60793515083233,
+    "lon": -3.063969846000971,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1101-46100",
+    "name": "Allonby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/46100/year/2025",
+    "lat": 54.76803473787631,
+    "lon": -3.434608476413831,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2101-04250",
+    "name": "Amble Links",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04250/year/2025",
+    "lat": 55.32564590871283,
+    "lon": -1.552397954526308,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2100-04220",
+    "name": "Amble Little Shore",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 55.33691324083656,
+    "lon": -1.57486180575255,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09400",
+    "name": "Anderby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09400/year/2025",
+    "lat": 53.25980121003406,
+    "lon": 0.325520422539733,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23501",
+    "name": "Anstey's Cove (Torquay)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23501/year/2025",
+    "lat": 50.47182407170853,
+    "lon": -3.501093359202774,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23400",
+    "name": "Babbacombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23400/year/2025",
+    "lat": 50.4790555378573,
+    "lon": -3.509412650912728,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2102-03700",
+    "name": "Bamburgh Castle",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/03700/year/2025",
+    "lat": 55.610951487599735,
+    "lon": -1.707902922897897,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25700",
+    "name": "Bantham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25700/year/2025",
+    "lat": 50.27895078225824,
+    "lon": -3.878814815030624,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23700",
+    "name": "Beacon Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23700/year/2025",
+    "lat": 50.45746639794916,
+    "lon": -3.523518070527209,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2102-03900",
+    "name": "Beadnell",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/03900/year/2025",
+    "lat": 55.548750892712384,
+    "lon": -1.632288132669377,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-21700",
+    "name": "Beer",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21700/year/2025",
+    "lat": 50.696530777851144,
+    "lon": -3.08988548959849,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18200",
+    "name": "Bembridge",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18200/year/2025",
+    "lat": 50.68620066346025,
+    "lon": -1.069670328823699,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2302-35500",
+    "name": "Berrow North of Unity Farm",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35500/year/2025",
+    "lat": 51.28173368068762,
+    "lon": -3.017751052337732,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2205-14200",
+    "name": "Bexhill",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002852",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14200/year/2025",
+    "lat": 50.83651861983744,
+    "lon": 0.470373139504789,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25900",
+    "name": "Bigbury-on-Sea North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25900/year/2025",
+    "lat": 50.28315367563654,
+    "lon": -3.896948022486347,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25800",
+    "name": "Bigbury-on-Sea South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25800/year/2025",
+    "lat": 50.28165534771269,
+    "lon": -3.895063665552046,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2201-14550",
+    "name": "Birling Gap",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002678",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14550/year/2025",
+    "lat": 50.742579673737495,
+    "lon": 0.200707746754768,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4200-42600",
+    "name": "Bispham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038861",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/42600/year/2025",
+    "lat": 53.84890576949986,
+    "lon": -3.054869767619019,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4200-42300",
+    "name": "Blackpool Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038861",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/42300/year/2025",
+    "lat": 53.80265842922889,
+    "lon": -3.056200177794543,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4200-42500",
+    "name": "Blackpool North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038861",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/42500/year/2025",
+    "lat": 53.81612859181931,
+    "lon": -3.056569017332642,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24800",
+    "name": "Blackpool Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24800/year/2025",
+    "lat": 50.3194159836367,
+    "lon": -3.60970754285821,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4200-42100",
+    "name": "Blackpool South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038861",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/42100/year/2025",
+    "lat": 53.79064259107068,
+    "lon": -3.059086159238381,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2305-35200",
+    "name": "Blue Anchor West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35200/year/2025",
+    "lat": 51.18240778352082,
+    "lon": -3.401200559800488,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2103-04600",
+    "name": "Blyth South Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04600/year/2025",
+    "lat": 55.10887191552686,
+    "lon": -1.496824471223949,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15700",
+    "name": "Bognor Regis (Aldwick)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15700/year/2025",
+    "lat": 50.77923589764446,
+    "lon": -0.691328567556921,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15680",
+    "name": "Bognor Regis East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15680/year/2025",
+    "lat": 50.78234219649502,
+    "lon": -0.669396152909609,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32750",
+    "name": "Booby's Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32750/year/2025",
+    "lat": 50.53903716125394,
+    "lon": -5.0258580848193,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12660",
+    "name": "Botany Bay, Broadstairs",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12660/year/2025",
+    "lat": 51.38944157243337,
+    "lon": 1.435294752968038,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19160",
+    "name": "Bournemouth Alum Chine",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19160/year/2025",
+    "lat": 50.711113986161706,
+    "lon": -1.895402269211638,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19060",
+    "name": "Bournemouth Boscombe Pier",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19060/year/2025",
+    "lat": 50.71944739521689,
+    "lon": -1.844020302357056,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19150",
+    "name": "Bournemouth Durley Chine",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19150/year/2025",
+    "lat": 50.71305031738002,
+    "lon": -1.888741147744736,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19030",
+    "name": "Bournemouth Fisherman`s Walk",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19030/year/2025",
+    "lat": 50.72070320194038,
+    "lon": -1.816860588485414,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19000",
+    "name": "Bournemouth Hengistbury West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19000/year/2025",
+    "lat": 50.716827933587915,
+    "lon": -1.771081738193689,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19050",
+    "name": "Bournemouth Manor Steps",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19050/year/2025",
+    "lat": 50.7202495759178,
+    "lon": -1.832274419945797,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19100",
+    "name": "Bournemouth Pier",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19100/year/2025",
+    "lat": 50.715465501090364,
+    "lon": -1.875860241218663,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2101-19020",
+    "name": "Bournemouth Southbourne",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19020/year/2025",
+    "lat": 50.71897071380313,
+    "lon": -1.791710158585046,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26300",
+    "name": "Bovisand",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26300/year/2025",
+    "lat": 50.33552516436526,
+    "lon": -4.11952288011347,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20400",
+    "name": "Bowleaze Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20400/year/2025",
+    "lat": 50.63618767781551,
+    "lon": -2.422236530165176,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2403-16000",
+    "name": "Bracklesham Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016444",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16000/year/2025",
+    "lat": 50.760993122078624,
+    "lon": -0.860538272557859,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24500",
+    "name": "Breakwater Beach (Shoalstone)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24500/year/2025",
+    "lat": 50.40006254076284,
+    "lon": -3.504510070091992,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2302-35600",
+    "name": "Brean",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35600/year/2025",
+    "lat": 51.321226248428644,
+    "lon": -3.011650047268998,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08000",
+    "name": "Bridlington North Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08000/year/2025",
+    "lat": 54.08676707130436,
+    "lon": -0.182688833790864,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08100",
+    "name": "Bridlington South Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08100/year/2025",
+    "lat": 54.077228774938455,
+    "lon": -0.198758284289504,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11700",
+    "name": "Brightlingsea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11700/year/2025",
+    "lat": 51.80571083466384,
+    "lon": 1.01053773140046,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2100-14950",
+    "name": "Brighton Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000036749",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14950/year/2025",
+    "lat": 50.82025634693602,
+    "lon": -0.145844809909213,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2100-14900",
+    "name": "Brighton Kemptown",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000036749",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14900/year/2025",
+    "lat": 50.81594686736635,
+    "lon": -0.122123261573308,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24300",
+    "name": "Broadsands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24300/year/2025",
+    "lat": 50.405999875047776,
+    "lon": -3.554348268729958,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12750",
+    "name": "Broadstairs, Stone Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12750/year/2025",
+    "lat": 51.366271970965286,
+    "lon": 1.4453279329694,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12800",
+    "name": "Broadstairs, Viking Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12800/year/2025",
+    "lat": 51.357732765963895,
+    "lon": 1.442977096679106,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-22100",
+    "name": "Budleigh Salterton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22100/year/2025",
+    "lat": 50.62932092648733,
+    "lon": -3.318248600635247,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10350",
+    "name": "Caister Point",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10350/year/2025",
+    "lat": 52.64624926810105,
+    "lon": 1.737438207333146,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3308-16900",
+    "name": "Calshot",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017733",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16900/year/2025",
+    "lat": 50.80930372507521,
+    "lon": -1.31814781758902,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2204-13900",
+    "name": "Camber",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002852",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13900/year/2025",
+    "lat": 50.933200586076914,
+    "lon": 0.796375555008748,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3304-11906",
+    "name": "Canvey Island Foreshore",
+    "district": "http://statistics.data.gov.uk/id/statistical-geography/E07000069",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 51.51145622767272,
+    "lon": 0.593096094324913,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31100",
+    "name": "Carbis Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31100/year/2025",
+    "lat": 50.198743487111486,
+    "lon": -5.464979857926979,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26530",
+    "name": "Cawsand",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26530/year/2025",
+    "lat": 50.330855517949935,
+    "lon": -4.201377459873182,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07500",
+    "name": "Cayton Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07500/year/2025",
+    "lat": 54.24479191783662,
+    "lon": -0.362946628988699,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26000",
+    "name": "Challaborough",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26000/year/2025",
+    "lat": 50.287641076129326,
+    "lon": -3.897547609135589,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-31650",
+    "name": "Chapel Porth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31650/year/2025",
+    "lat": 50.30041024758236,
+    "lon": -5.234876016017111,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09500",
+    "name": "Chapel St Leonards",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09500/year/2025",
+    "lat": 53.22367175524304,
+    "lon": 0.339966925508284,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27600",
+    "name": "Charlestown",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27600/year/2025",
+    "lat": 50.33118443987883,
+    "lon": -4.755341206910302,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21300",
+    "name": "Charmouth West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21300/year/2025",
+    "lat": 50.73354010619156,
+    "lon": -2.904557604285713,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-18800",
+    "name": "Christchurch Avon Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18800/year/2025",
+    "lat": 50.72924859072594,
+    "lon": -1.733644685233053,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-17200",
+    "name": "Christchurch Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017733",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17200/year/2025",
+    "lat": 50.73431722543745,
+    "lon": -1.662694516455852,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-18750",
+    "name": "Christchurch Friar`s Cliff",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18750/year/2025",
+    "lat": 50.73204459027096,
+    "lon": -1.729392227367008,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-18700",
+    "name": "Christchurch Highcliffe Castle",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18700/year/2025",
+    "lat": 50.7356331243121,
+    "lon": -1.714435887219141,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-18900",
+    "name": "Christchurch Mudeford Sandbank East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18900/year/2025",
+    "lat": 50.7192316666589,
+    "lon": -1.742129795988796,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29501",
+    "name": "Church Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29501/year/2025",
+    "lat": 50.03856677687165,
+    "lon": -5.267924543097124,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20500",
+    "name": "Church Ope Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20500/year/2025",
+    "lat": 50.53797182312265,
+    "lon": -2.428075266920466,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11500",
+    "name": "Clacton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11500/year/2025",
+    "lat": 51.79309947559957,
+    "lon": 1.171319951192254,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11650",
+    "name": "Clacton Beach Martello Tower",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11650/year/2025",
+    "lat": 51.77999691152549,
+    "lon": 1.140095257455826,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1301-09000",
+    "name": "Cleethorpes",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025650",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09000/year/2025",
+    "lat": 53.55685223189815,
+    "lon": -0.022231183047955,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1202-36000",
+    "name": "Clevedon Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025504",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36000/year/2025",
+    "lat": 51.442236990094436,
+    "lon": -2.861457654629344,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4312-42800",
+    "name": "Cleveleys",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004922",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/42800/year/2025",
+    "lat": 53.88132297482882,
+    "lon": -3.048077762204383,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26050",
+    "name": "Coastguards Beach, Erme Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26050/year/2025",
+    "lat": 50.31206,
+    "lon": -3.94699,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17600",
+    "name": "Colwell Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17600/year/2025",
+    "lat": 50.68945860420148,
+    "lon": -1.538450970988754,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf1400-09750",
+    "name": "Colwick Country Park (West Lake)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038857",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09750/year/2025",
+    "lat": 52.94516380152393,
+    "lon": -1.098153763924492,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34700",
+    "name": "Combe Martin",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34700/year/2025",
+    "lat": 51.207316565673665,
+    "lon": -4.038184203580404,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34410",
+    "name": "Combesgate Beach, Woolacombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34410/year/2025",
+    "lat": 51.178247540612425,
+    "lon": -4.212462095656805,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17400",
+    "name": "Compton Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17400/year/2025",
+    "lat": 50.65606596712299,
+    "lon": -1.468299355173796,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1230-45750",
+    "name": "Coniston Water, Boating Centre",
+    "district": "http://data.ordnancesurvey.co.uk/id/205abf06-6ef8-4661-bf1d-a2730c1bd8fc",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45750/year/2025",
+    "lat": 54.36396,
+    "lon": -3.06608,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1230-45725",
+    "name": "Coniston Water, Brown Howe",
+    "district": "http://data.ordnancesurvey.co.uk/id/03cef7dc-3dba-43d7-93f5-fc84ffbc4db8",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45725/year/2025",
+    "lat": 54.31134,
+    "lon": -3.09122,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1230-45775",
+    "name": "Coniston Water, Monk Coniston",
+    "district": "http://data.ordnancesurvey.co.uk/id/3d31b34e-32bd-48a3-b1d3-fdb5195cf844",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45775/year/2025",
+    "lat": 54.37179,
+    "lon": -3.05435,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32700",
+    "name": "Constantine Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32700/year/2025",
+    "lat": 50.53323640833779,
+    "lon": -5.022692244773718,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1302-11760",
+    "name": "Cotswold Country Park and Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000020224",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11760/year/2025",
+    "lat": 51.66097999799158,
+    "lon": -1.960909719962519,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29100",
+    "name": "Coverack",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29100/year/2025",
+    "lat": 50.02436158631497,
+    "lon": -5.097157134548582,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17800",
+    "name": "Cowes",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17800/year/2025",
+    "lat": 50.76783127759815,
+    "lon": -1.309363422153536,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33360",
+    "name": "Crackington Haven",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33360/year/2025",
+    "lat": 50.74192286553918,
+    "lon": -4.633803990812524,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32100",
+    "name": "Crantock",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32100/year/2025",
+    "lat": 50.40681791797864,
+    "lon": -5.119221503916047,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1404-05900",
+    "name": "Crimdon",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043607",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05900/year/2025",
+    "lat": 54.72807976877461,
+    "lon": -1.248729788380296,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27500",
+    "name": "Crinnis Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27500/year/2025",
+    "lat": 50.33609981662796,
+    "lon": -4.733841447922212,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10200",
+    "name": "Cromer",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10200/year/2025",
+    "lat": 52.93254114631521,
+    "lon": 1.302181256100388,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33600",
+    "name": "Crooklets",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33600/year/2025",
+    "lat": 50.83580233992227,
+    "lon": -4.554007949429832,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34200",
+    "name": "Croyde Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34200/year/2025",
+    "lat": 51.13152405671773,
+    "lon": -4.238529434699125,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-07950",
+    "name": "Danes Dyke, Flamborough",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07950/year/2025",
+    "lat": 54.10404951925485,
+    "lon": -0.141857991604335,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24700",
+    "name": "Dartmouth Castle Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24700/year/2025",
+    "lat": 50.342055424936,
+    "lon": -3.565498917213719,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22600",
+    "name": "Dawlish Coryton Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22600/year/2025",
+    "lat": 50.57482114899544,
+    "lon": -3.468548647670714,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22500",
+    "name": "Dawlish Town",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22500/year/2025",
+    "lat": 50.580862932698885,
+    "lon": -3.463693984082954,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22400",
+    "name": "Dawlish Warren",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22400/year/2025",
+    "lat": 50.5996530157733,
+    "lon": -3.438940914543866,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33200",
+    "name": "Daymer Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33200/year/2025",
+    "lat": 50.5613325702196,
+    "lon": -4.926484246445725,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4204-13100",
+    "name": "Deal Castle",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017977",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13100/year/2025",
+    "lat": 51.22486304198136,
+    "lon": 1.404925707974265,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1101-45800",
+    "name": "Derwent Water at Crow Park",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45800/year/2025",
+    "lat": 54.59499,
+    "lon": -3.14218,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24660",
+    "name": "Dittisham, Dart Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/21c1a2c8-d216-4971-8de5-246036ea78d9",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24660/year/2025",
+    "lat": 50.38456,
+    "lon": -3.59721,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11100",
+    "name": "Dovercourt",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11100/year/2025",
+    "lat": 51.928717049764344,
+    "lon": 1.273696364647091,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26700",
+    "name": "Downderry",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26700/year/2025",
+    "lat": 50.360983061814046,
+    "lon": -4.370798313705646,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2104-04280",
+    "name": "Druridge Bay North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04280/year/2025",
+    "lat": 55.29110916206403,
+    "lon": -1.568532719733309,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2104-04300",
+    "name": "Druridge Bay South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04300/year/2025",
+    "lat": 55.2402505449666,
+    "lon": -1.543920718052364,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2305-35100",
+    "name": "Dunster Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35100/year/2025",
+    "lat": 51.192406603754826,
+    "lon": -3.426591495300738,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27700",
+    "name": "Duporth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27700/year/2025",
+    "lat": 50.3274314014497,
+    "lon": -4.761868907753872,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-20100",
+    "name": "Durdle Door East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20100/year/2025",
+    "lat": 50.621989988532334,
+    "lon": -2.274144955206742,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-20200",
+    "name": "Durdle Door West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20200/year/2025",
+    "lat": 50.621929009837075,
+    "lon": -2.277113213563494,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13600",
+    "name": "Dymchurch",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13600/year/2025",
+    "lat": 51.024613309377024,
+    "lon": 0.996611814185222,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2207-20990",
+    "name": "East Beach at West Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 50.709274126804615,
+    "lon": -2.761638166307538,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17850",
+    "name": "East Cowes",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17850/year/2025",
+    "lat": 50.76476936026451,
+    "lon": -1.283289967118494,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-27000",
+    "name": "East Looe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27000/year/2025",
+    "lat": 50.35256267635997,
+    "lon": -4.451498081181772,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10150",
+    "name": "East Runton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10150/year/2025",
+    "lat": 52.93708002216914,
+    "lon": 1.275985967187263,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2201-14500",
+    "name": "Eastbourne",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002632",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14500/year/2025",
+    "lat": 50.762498,
+    "lon": 0.288003,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3100-16500",
+    "name": "Eastney",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000037254",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16500/year/2025",
+    "lat": 50.78461852703445,
+    "lon": -1.045119146890172,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-22300",
+    "name": "Exmouth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22300/year/2025",
+    "lat": 50.61107934994528,
+    "lon": -3.401693565122055,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21100",
+    "name": "Eypemouth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21100/year/2025",
+    "lat": 50.716089177039926,
+    "lon": -2.78487992421657,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1406-10712",
+    "name": "Falcon Meadow, River Waveney",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 52.45647770491852,
+    "lon": 1.443042065642678,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1406-10900",
+    "name": "Felixstowe North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10900/year/2025",
+    "lat": 51.96034359322559,
+    "lon": 1.355028705384109,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1406-11000",
+    "name": "Felixstowe South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11000/year/2025",
+    "lat": 51.954333457100994,
+    "lon": 1.341507104744206,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15650",
+    "name": "Felpham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15650/year/2025",
+    "lat": 50.786285588536565,
+    "lon": -0.65254437647151,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07600",
+    "name": "Filey",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07600/year/2025",
+    "lat": 54.20824693207295,
+    "lon": -0.284226049497505,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32200",
+    "name": "Fistral North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32200/year/2025",
+    "lat": 50.41771612760746,
+    "lon": -5.098537124652402,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32150",
+    "name": "Fistral South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32150/year/2025",
+    "lat": 50.41415464410884,
+    "lon": -5.101542629662413,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-07900",
+    "name": "Flamborough South Landing",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07900/year/2025",
+    "lat": 54.104251657488376,
+    "lon": -0.118415393137514,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4312-43000",
+    "name": "Fleetwood",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004922",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/43000/year/2025",
+    "lat": 53.92659567671065,
+    "lon": -3.019972502286207,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13300",
+    "name": "Folkestone",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13300/year/2025",
+    "lat": 51.08196357311625,
+    "lon": 1.191314626866399,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5300-41200",
+    "name": "Formby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005960",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41200/year/2025",
+    "lat": 53.5482261646304,
+    "lon": -3.106241432760207,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08300",
+    "name": "Fraisthorpe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08300/year/2025",
+    "lat": 54.04856607390669,
+    "lon": -0.214020385991274,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2310-11945",
+    "name": "Frensham Great Pond",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000014119",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11945/year/2025",
+    "lat": 51.15730922324361,
+    "lon": -0.791803740453079,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1401-11051",
+    "name": "Friars Meadow, River Stour",
+    "district": "http://data.ordnancesurvey.co.uk/id/39aef6a4-3298-4584-8d1b-b059aa870246",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11051/year/2025",
+    "lat": 52.03408,
+    "lon": 0.73489,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11300",
+    "name": "Frinton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11300/year/2025",
+    "lat": 51.82780056823315,
+    "lon": 1.248339232765255,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31450",
+    "name": "Godrevy Towans",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31450/year/2025",
+    "lat": 50.232735440965584,
+    "lon": -5.392071943188155,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24200",
+    "name": "Goodrington",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24200/year/2025",
+    "lat": 50.42353233707098,
+    "lon": -3.559497533654101,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2407-15450",
+    "name": "Goring Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/2035cdb3-0997-495f-8331-aa622215541a",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15450/year/2025",
+    "lat": 50.80529,
+    "lon": -0.41537,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10650",
+    "name": "Gorleston Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10650/year/2025",
+    "lat": 52.569817190589475,
+    "lon": 1.73349731928401,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-28200",
+    "name": "Gorran Haven Little Perhaver",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28200/year/2025",
+    "lat": 50.24082249654092,
+    "lon": -4.787575467256791,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32310",
+    "name": "Great Western",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32310/year/2025",
+    "lat": 50.41595984701269,
+    "lon": -5.076600418961373,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10400",
+    "name": "Great Yarmouth North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10400/year/2025",
+    "lat": 52.63227449529552,
+    "lon": 1.742735668548983,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10500",
+    "name": "Great Yarmouth Pier",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10500/year/2025",
+    "lat": 52.605300795637355,
+    "lon": 1.739531699977325,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10600",
+    "name": "Great Yarmouth South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10600/year/2025",
+    "lat": 52.596329942449074,
+    "lon": 1.738766857115263,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17700",
+    "name": "Gurnard",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17700/year/2025",
+    "lat": 50.760728721025984,
+    "lon": -1.325063587908411,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31400",
+    "name": "Gwithian Towans",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31400/year/2025",
+    "lat": 50.22798045801165,
+    "lon": -5.391930689924775,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30750",
+    "name": "Gwynver",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30750/year/2025",
+    "lat": 50.089302054564136,
+    "lon": -5.688927671042629,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-28600",
+    "name": "Gyllyngvase",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28600/year/2025",
+    "lat": 50.14461889183703,
+    "lon": -5.067404244295827,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uki2203-11942",
+    "name": "Ham and Kingston, River Thames",
+    "district": "http://statistics.data.gov.uk/id/statistical-geography/E09000021",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 51.42702402293735,
+    "lon": -0.310741348239147,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uki1101-11910",
+    "name": "Hampstead Heath (Ladies Pond)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000011105",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11910/year/2025",
+    "lat": 51.56672374875844,
+    "lon": -0.160094351971831,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uki1101-11920",
+    "name": "Hampstead Heath (Mens Pond)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000011105",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11920/year/2025",
+    "lat": 51.563342095736694,
+    "lon": -0.15662381451985,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uki1101-11930",
+    "name": "Hampstead Heath (Mixed Pond)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000011105",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11930/year/2025",
+    "lat": 51.560705232062936,
+    "lon": -0.166252403338055,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32900",
+    "name": "Harlyn Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32900/year/2025",
+    "lat": 50.54027976933611,
+    "lon": -4.997311029899912,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4307-33800",
+    "name": "Hartland Quay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022970",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33800/year/2025",
+    "lat": 50.995535183450286,
+    "lon": -4.533694568865084,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2202-14100",
+    "name": "Hastings Pelham Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002583",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14100/year/2025",
+    "lat": 50.85354404286179,
+    "lon": 0.5857954003092,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1103-44800",
+    "name": "Haverigg",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/44800/year/2025",
+    "lat": 54.18907071697454,
+    "lon": -3.288806054188797,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31300",
+    "name": "Hayle Towans",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31300/year/2025",
+    "lat": 50.20475243723058,
+    "lon": -5.417055620258719,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3307-16350",
+    "name": "Hayling Beachlands Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017297",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16350/year/2025",
+    "lat": 50.7835726010608,
+    "lon": -0.989249185506088,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3307-16400",
+    "name": "Hayling Beachlands West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017297",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16400/year/2025",
+    "lat": 50.78358643497926,
+    "lon": -1.001306696975126,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3307-16300",
+    "name": "Hayling Eastoke",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017297",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16300/year/2025",
+    "lat": 50.78059297941697,
+    "lon": -0.967327158509046,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1304-09800",
+    "name": "Heacham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007016",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09800/year/2025",
+    "lat": 52.90921846864188,
+    "lon": 0.471523847450913,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1303-10325",
+    "name": "Hemsby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006392",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10325/year/2025",
+    "lat": 52.69528452004281,
+    "lon": 1.710110760866245,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1100-36050",
+    "name": "Henleaze Lake",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025523",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36050/year/2025",
+    "lat": 51.49462281893482,
+    "lon": -2.605706908746493,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4202-12200",
+    "name": "Herne Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018139",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12200/year/2025",
+    "lat": 51.37435710325768,
+    "lon": 1.139544400747574,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4202-12150",
+    "name": "Herne Bay Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018139",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12150/year/2025",
+    "lat": 51.372039870464164,
+    "lon": 1.118548468494485,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2201-17300",
+    "name": "Highcliffe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17300/year/2025",
+    "lat": 50.7369779306785,
+    "lon": -1.698471256684587,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3304-16850",
+    "name": "Hillhead",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017544",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16850/year/2025",
+    "lat": 50.813437334491546,
+    "lon": -1.225369966558602,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-20970",
+    "name": "Hive",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20970/year/2025",
+    "lat": 50.69624551789942,
+    "lon": -2.723226623461948,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11350",
+    "name": "Holland",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11350/year/2025",
+    "lat": 51.81320172479971,
+    "lon": 1.22584143875814,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23900",
+    "name": "Hollicombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23900/year/2025",
+    "lat": 50.44879532733753,
+    "lon": -3.553524388097443,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-32000",
+    "name": "Holywell Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32000/year/2025",
+    "lat": 50.39189541579557,
+    "lon": -5.145540679817082,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25400",
+    "name": "Hope Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25400/year/2025",
+    "lat": 50.24262410687842,
+    "lon": -3.859125090603487,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08700",
+    "name": "Hornsea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08700/year/2025",
+    "lat": 53.91410993995743,
+    "lon": -0.160484521899418,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2100-15000",
+    "name": "Hove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000036749",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15000/year/2025",
+    "lat": 50.823211672951224,
+    "lon": -0.166684558773012,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1301-09020",
+    "name": "Humberston Fitties",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025650",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09020/year/2025",
+    "lat": 53.53521627679113,
+    "lon": 0.008374419031881,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1304-09900",
+    "name": "Hunstanton (Old Hunstanton)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007016",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09900/year/2025",
+    "lat": 52.95365719192685,
+    "lon": 0.496388660943862,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1304-09850",
+    "name": "Hunstanton Main Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007016",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09850/year/2025",
+    "lat": 52.93683650219976,
+    "lon": 0.48381224712594,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09300",
+    "name": "Huttoft and Marsh Yard",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09300/year/2025",
+    "lat": 53.27302981010478,
+    "lon": 0.318439111596705,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13500",
+    "name": "Hythe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13500/year/2025",
+    "lat": 51.064683030745755,
+    "lon": 1.081421889530718,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34600",
+    "name": "Ilfracombe Hele",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34600/year/2025",
+    "lat": 51.2108577557785,
+    "lon": -4.097302527866871,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34450",
+    "name": "Ilfracombe Tunnels Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34450/year/2025",
+    "lat": 51.21045139584133,
+    "lon": -4.127266087534065,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09600",
+    "name": "Ingoldmells",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09600/year/2025",
+    "lat": 53.193934454428074,
+    "lon": 0.35387206214699,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11600",
+    "name": "Jaywick",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11600/year/2025",
+    "lat": 51.77262931380517,
+    "lon": 1.112762317973562,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12700",
+    "name": "Joss Bay, Broadstairs",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12700/year/2025",
+    "lat": 51.379219014808704,
+    "lon": 1.446142630132952,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29200",
+    "name": "Kennack Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29200/year/2025",
+    "lat": 50.0051145430488,
+    "lon": -5.16361764652506,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-19900",
+    "name": "Kimmeridge Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19900/year/2025",
+    "lat": 50.61147302027232,
+    "lon": -2.131407992731875,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26520",
+    "name": "Kingsand",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26520/year/2025",
+    "lat": 50.33359139747659,
+    "lon": -4.199395954504258,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-22000",
+    "name": "Ladram Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22000/year/2025",
+    "lat": 50.65858520679001,
+    "lon": -3.279552270381738,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2401-15300",
+    "name": "Lancing, Beach Green",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016223",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15300/year/2025",
+    "lat": 50.819862756714556,
+    "lon": -0.321921858737898,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3305-16800",
+    "name": "Lee-on-Solent",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017378",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16800/year/2025",
+    "lat": 50.8009570638879,
+    "lon": -1.204262010643014,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11904",
+    "name": "Leigh Bell Wharf",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11904/year/2025",
+    "lat": 51.539022887876975,
+    "lon": 0.652567904722018,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3308-17000",
+    "name": "Lepe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017733",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17000/year/2025",
+    "lat": 50.78427689171927,
+    "lon": -1.354514214476178,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4209-12000",
+    "name": "Leysdown",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018242",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12000/year/2025",
+    "lat": 51.40014835227358,
+    "lon": 0.921827823102863,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15500",
+    "name": "Littlehampton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15500/year/2025",
+    "lat": 50.80227443041339,
+    "lon": -0.538835647163759,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2204-05250",
+    "name": "Littlehaven Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009685",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05250/year/2025",
+    "lat": 55.00455,
+    "lon": -1.42127,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13800",
+    "name": "Littlestone",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13800/year/2025",
+    "lat": 50.97678874193849,
+    "lon": 0.96731518804359,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30300",
+    "name": "Long Rock",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30300/year/2025",
+    "lat": 50.12751,
+    "lon": -5.505328,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3008-27080",
+    "name": "Lostwithiel, River Fowey",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 50.407443745846976,
+    "lon": -4.666359184479336,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2101-04000",
+    "name": "Low Newton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04000/year/2025",
+    "lat": 55.513207709216196,
+    "lon": -1.615516489199073,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1407-10750",
+    "name": "Lowestoft (North of Claremont Pier)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10750/year/2025",
+    "lat": 52.46832115480514,
+    "lon": 1.748783678636152,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1407-10800",
+    "name": "Lowestoft (South of Claremont Pier)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10800/year/2025",
+    "lat": 52.46390139880056,
+    "lon": 1.74519731039964,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-20000",
+    "name": "Lulworth Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20000/year/2025",
+    "lat": 50.61891606966623,
+    "lon": -2.249333471476767,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32330",
+    "name": "Lusty Glaze",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32330/year/2025",
+    "lat": 50.421753411210396,
+    "lon": -5.065007625612633,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21400",
+    "name": "Lyme Regis Church Cliff Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21400/year/2025",
+    "lat": 50.725027701195046,
+    "lon": -2.930321023052255,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21500",
+    "name": "Lyme Regis Front Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21500/year/2025",
+    "lat": 50.72248583256525,
+    "lon": -2.937779284373491,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34800",
+    "name": "Lynmouth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34800/year/2025",
+    "lat": 51.231690161017816,
+    "lon": -3.824498121373426,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09100",
+    "name": "Mablethorpe Town",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09100/year/2025",
+    "lat": 53.34416062120259,
+    "lon": 0.26436524824349,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-28800",
+    "name": "Maenporth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28800/year/2025",
+    "lat": 50.12494280778024,
+    "lon": -5.093572395033213,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23100",
+    "name": "Maidencombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23100/year/2025",
+    "lat": 50.506435151413704,
+    "lon": -3.513388073103245,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11050",
+    "name": "Manningtree Beach, Stour Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11050/year/2025",
+    "lat": 51.94639,
+    "lon": 1.06523,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30200",
+    "name": "Marazion",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30200/year/2025",
+    "lat": 50.1264952951233,
+    "lon": -5.480789644537383,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12600",
+    "name": "Margate Fulsam Rock",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12600/year/2025",
+    "lat": 51.392678701614855,
+    "lon": 1.386538154257397,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12500",
+    "name": "Margate The Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12500/year/2025",
+    "lat": 51.38769982307236,
+    "lon": 1.375790552419346,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2204-05400",
+    "name": "Marsden",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009685",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05400/year/2025",
+    "lat": 54.97801732102611,
+    "lon": -1.37659442703996,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06650",
+    "name": "Marske Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06650/year/2025",
+    "lat": 54.59999555445701,
+    "lon": -1.0170751447538,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32500",
+    "name": "Mawgan Porth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32500/year/2025",
+    "lat": 50.46746945104093,
+    "lon": -5.033433876076066,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23600",
+    "name": "Meadfoot",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23600/year/2025",
+    "lat": 50.45708599356928,
+    "lon": -3.509220494924685,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5400-40800",
+    "name": "Meols",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006068",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/40800/year/2025",
+    "lat": 53.40659375489932,
+    "lon": -3.15972594419281,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31250",
+    "name": "Mexico Towans",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31250/year/2025",
+    "lat": 50.20104507197195,
+    "lon": -5.423798805885463,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15600",
+    "name": "Middleton-on-sea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15600/year/2025",
+    "lat": 50.79030021449079,
+    "lon": -0.60390668831765,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3308-17100",
+    "name": "Milford-on-sea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017733",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17100/year/2025",
+    "lat": 50.72497354019215,
+    "lon": -1.610597266739971,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25100",
+    "name": "Mill Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25100/year/2025",
+    "lat": 50.22997707533169,
+    "lon": -3.766960112097832,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26900",
+    "name": "Millendreath",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26900/year/2025",
+    "lat": 50.36106704002505,
+    "lon": -4.436327857389018,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2305-35000",
+    "name": "Minehead Terminus",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35000/year/2025",
+    "lat": 51.20757155104795,
+    "lon": -3.467058970405523,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12300",
+    "name": "Minnis Bay, Birchington",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12300/year/2025",
+    "lat": 51.38029832223167,
+    "lon": 1.283684806754969,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4209-11975",
+    "name": "Minster Leas",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018242",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11975/year/2025",
+    "lat": 51.43293721413515,
+    "lon": 0.805325503474074,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4305-43550",
+    "name": "Morecambe North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004925",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/43550/year/2025",
+    "lat": 54.07745445944751,
+    "lon": -2.860727733701429,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4305-43260",
+    "name": "Morecambe South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004925",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/43260/year/2025",
+    "lat": 54.07282920213978,
+    "lon": -2.876449196479144,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5400-40900",
+    "name": "Moreton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006068",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/40900/year/2025",
+    "lat": 53.417765572885806,
+    "lon": -3.119402914547438,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26100",
+    "name": "Mothecombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26100/year/2025",
+    "lat": 50.30957285877536,
+    "lon": -3.952775115720852,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32800",
+    "name": "Mother Ivey`s Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32800/year/2025",
+    "lat": 50.54412805108646,
+    "lon": -5.015483516396951,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10300",
+    "name": "Mundesley",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10300/year/2025",
+    "lat": 52.87696084494732,
+    "lon": 1.441775726252517,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-23000",
+    "name": "Ness Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23000/year/2025",
+    "lat": 50.53609536432295,
+    "lon": -3.498179275537058,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd7400-41100",
+    "name": "New Brighton Beach East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006068",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 53.440892092764805,
+    "lon": -3.038970802228123,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2106-04400",
+    "name": "Newbiggin North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04400/year/2025",
+    "lat": 55.18440846275651,
+    "lon": -1.51032213701256,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2106-04500",
+    "name": "Newbiggin South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04500/year/2025",
+    "lat": 55.17885507447854,
+    "lon": -1.514786810240242,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26150",
+    "name": "Newton and Noss",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 50.31163123408207,
+    "lon": -4.039859348122493,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2203-08903",
+    "name": "Nidd at the Lido, Knaresborough",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08903/year/2025",
+    "lat": 53.9982,
+    "lon": -1.45145,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2205-14300",
+    "name": "Norman`s Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002852",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14300/year/2025",
+    "lat": 50.82280870144683,
+    "lon": 0.386696038608708,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33650",
+    "name": "Northcott Mouth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33650/year/2025",
+    "lat": 50.847970518807266,
+    "lon": -4.556945819111498,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23300",
+    "name": "Oddicombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23300/year/2025",
+    "lat": 50.482447025805186,
+    "lon": -3.514891159043062,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2402-15800",
+    "name": "Pagham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016438",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15800/year/2025",
+    "lat": 50.76752942075107,
+    "lon": -0.736466764997683,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24100",
+    "name": "Paignton Paignton Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24100/year/2025",
+    "lat": 50.43505334594111,
+    "lon": -3.558848075399885,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24000",
+    "name": "Paignton Preston Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24000/year/2025",
+    "lat": 50.44444250761605,
+    "lon": -3.55619878157936,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj1102-11941",
+    "name": "Pangbourne Meadow, River Thames",
+    "district": "http://statistics.data.gov.uk/id/statistical-geography/E04001184",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 51.48682521935274,
+    "lon": -1.083940641648369,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27300",
+    "name": "Par Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27300/year/2025",
+    "lat": 50.34695147768081,
+    "lon": -4.692854628695517,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-28500",
+    "name": "Pendower",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28500/year/2025",
+    "lat": 50.205650385263674,
+    "lon": -4.94783256502555,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27900",
+    "name": "Pentewan",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27900/year/2025",
+    "lat": 50.287537976881396,
+    "lon": -4.782583402457527,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30400",
+    "name": "Penzance",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30400/year/2025",
+    "lat": 50.11465387695735,
+    "lon": -5.5355728915244,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-31800",
+    "name": "Perranporth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31800/year/2025",
+    "lat": 50.34935602310362,
+    "lon": -5.155098900544113,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-31900",
+    "name": "Perranporth Penhale Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31900/year/2025",
+    "lat": 50.35935172958828,
+    "lon": -5.151402771236902,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30100",
+    "name": "Perranuthnoe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30100/year/2025",
+    "lat": 50.11223580545538,
+    "lon": -5.44249847946612,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2201-14400",
+    "name": "Pevensey Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002678",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14400/year/2025",
+    "lat": 50.80997428191775,
+    "lon": 0.350368683032284,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4100-26510",
+    "name": "Plymouth Firestone Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038872",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26510/year/2025",
+    "lat": 50.36071493547671,
+    "lon": -4.161237326373048,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4100-26400",
+    "name": "Plymouth Hoe East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038872",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26400/year/2025",
+    "lat": 50.36391544289469,
+    "lon": -4.140895275468601,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4100-26500",
+    "name": "Plymouth Hoe West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038872",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26500/year/2025",
+    "lat": 50.36400976974736,
+    "lon": -4.14553973374772,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29500",
+    "name": "Poldhu Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29500/year/2025",
+    "lat": 50.03353543801929,
+    "lon": -5.261297725976499,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27200",
+    "name": "Polkerris",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27200/year/2025",
+    "lat": 50.33785853107068,
+    "lon": -4.681518057926255,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-28000",
+    "name": "Polstreath",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28000/year/2025",
+    "lat": 50.27436607251723,
+    "lon": -4.78420121717727,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29400",
+    "name": "Polurrian Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29400/year/2025",
+    "lat": 50.023330677378155,
+    "lon": -5.256277429751976,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33300",
+    "name": "Polzeath",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33300/year/2025",
+    "lat": 50.574807678958884,
+    "lon": -4.916442737581546,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19170",
+    "name": "Poole Branksome Chine",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19170/year/2025",
+    "lat": 50.70589220936583,
+    "lon": -1.909943393969187,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19190",
+    "name": "Poole Canford Cliffs Chine",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19190/year/2025",
+    "lat": 50.7004503224046,
+    "lon": -1.920502967848092,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19400",
+    "name": "Poole Harbour Lake",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19400/year/2025",
+    "lat": 50.71383032434879,
+    "lon": -2.025252753585668,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19450",
+    "name": "Poole Harbour Rockley Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19450/year/2025",
+    "lat": 50.71931148651304,
+    "lon": -2.040129811985227,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19350",
+    "name": "Poole Sandbanks Peninsular",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19350/year/2025",
+    "lat": 50.68868038945296,
+    "lon": -1.937369325612276,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2102-19200",
+    "name": "Poole Shore Road Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175926",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19200/year/2025",
+    "lat": 50.69464678358298,
+    "lon": -1.929361726434004,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2305-34900",
+    "name": "Porlock Weir",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000010578",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34900/year/2025",
+    "lat": 51.219009713770575,
+    "lon": -3.626267702315258,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32340",
+    "name": "Porth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32340/year/2025",
+    "lat": 50.42466218851614,
+    "lon": -5.05702836579692,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-28900",
+    "name": "Porthallow",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28900/year/2025",
+    "lat": 50.06855769742675,
+    "lon": -5.079319250900065,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32550",
+    "name": "Porthcothan",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32550/year/2025",
+    "lat": 50.509016460983155,
+    "lon": -5.023542515803301,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-28550",
+    "name": "Porthcurnick",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28550/year/2025",
+    "lat": 50.18612904255592,
+    "lon": -4.972549323471114,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30600",
+    "name": "Porthcurno",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30600/year/2025",
+    "lat": 50.04289896158366,
+    "lon": -5.650440231086796,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30900",
+    "name": "Porthgwidden",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30900/year/2025",
+    "lat": 50.217196038143136,
+    "lon": -5.476692927688384,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31200",
+    "name": "Porthkidney Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31200/year/2025",
+    "lat": 50.19410570682622,
+    "lon": -5.439418396508773,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29800",
+    "name": "Porthleven Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29800/year/2025",
+    "lat": 50.081047434835746,
+    "lon": -5.314853125567395,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-28400",
+    "name": "Porthluney",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28400/year/2025",
+    "lat": 50.236773121760834,
+    "lon": -4.843300092072096,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30800",
+    "name": "Porthmeor",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30800/year/2025",
+    "lat": 50.21528489056019,
+    "lon": -5.483423953578554,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31000",
+    "name": "Porthminster",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31000/year/2025",
+    "lat": 50.20865951327619,
+    "lon": -5.476352469666611,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29000",
+    "name": "Porthoustock",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29000/year/2025",
+    "lat": 50.05555308399595,
+    "lon": -5.064233762602137,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27800",
+    "name": "Porthpean",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27800/year/2025",
+    "lat": 50.32356183624416,
+    "lon": -4.765719191997011,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-31600",
+    "name": "Porthtowan",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31600/year/2025",
+    "lat": 50.28750549757236,
+    "lon": -5.242453199265106,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20800",
+    "name": "Portland Harbour Castle Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20800/year/2025",
+    "lat": 50.59630543390464,
+    "lon": -2.459686889130563,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20900",
+    "name": "Portland Harbour Sandsfoot Castle",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20900/year/2025",
+    "lat": 50.594230680451375,
+    "lon": -2.463551833001375,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-28100",
+    "name": "Portmellon",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28100/year/2025",
+    "lat": 50.26182964398326,
+    "lon": -4.785574720409609,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-31500",
+    "name": "Portreath",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31500/year/2025",
+    "lat": 50.26121685732411,
+    "lon": -5.293671282719442,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26600",
+    "name": "Portwrinkle",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26600/year/2025",
+    "lat": 50.361443659255194,
+    "lon": -4.307686824050995,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-29900",
+    "name": "Praa Sands East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/29900/year/2025",
+    "lat": 50.09926528948838,
+    "lon": -5.378769187638989,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3103-30000",
+    "name": "Praa Sands West",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30000/year/2025",
+    "lat": 50.10322853083056,
+    "lon": -5.390937537533112,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34300",
+    "name": "Putsborough",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34300/year/2025",
+    "lat": 51.14580018961564,
+    "lon": -4.220918668527864,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12850",
+    "name": "Ramsgate Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12850/year/2025",
+    "lat": 51.33223078633673,
+    "lon": 1.424911174620844,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12900",
+    "name": "Ramsgate Western Undercliffe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12900/year/2025",
+    "lat": 51.32660421706023,
+    "lon": 1.406272751424865,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27100",
+    "name": "Readymoney Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27100/year/2025",
+    "lat": 50.32951544639139,
+    "lon": -4.645214976125489,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06300",
+    "name": "Redcar Coatham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06300/year/2025",
+    "lat": 54.62207042887753,
+    "lon": -1.081591150286448,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06500",
+    "name": "Redcar Granville",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06500/year/2025",
+    "lat": 54.61735121010068,
+    "lon": -1.052274439805824,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06400",
+    "name": "Redcar Lifeboat Station",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06400/year/2025",
+    "lat": 54.62005944833288,
+    "lon": -1.060760245168095,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06600",
+    "name": "Redcar Stray",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06600/year/2025",
+    "lat": 54.60552364856422,
+    "lon": -1.033971487256716,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07700",
+    "name": "Reighton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07700/year/2025",
+    "lat": 54.16912811684886,
+    "lon": -0.249812947593646,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20300",
+    "name": "Ringstead Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20300/year/2025",
+    "lat": 50.63103636510807,
+    "lon": -2.351353705935561,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3308-19001",
+    "name": "River Avon at Fordingbridge",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017733",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19001/year/2025",
+    "lat": 50.92632,
+    "lon": -1.78854,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1500-19002",
+    "name": "River Avon at Queen Elizabeth Gardens",
+    "district": "http://statistics.data.gov.uk/id/statistical-geography/E06000054",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 51.067665274192855,
+    "lon": -1.802179259170573,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1406-10860",
+    "name": "River Deben Estuary, Waldringfield",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10860/year/2025",
+    "lat": 52.05172,
+    "lon": 1.33273,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2301-36051",
+    "name": "River Frome at Farleigh Hungerford",
+    "district": "http://data.ordnancesurvey.co.uk/id/6065637a-0209-4106-a529-ea1221342b39",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36051/year/2025",
+    "lat": 51.31791,
+    "lon": -2.28093,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4308-46501",
+    "name": "River Ribble at Edisford Bridge",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/46501/year/2025",
+    "lat": 53.86847,
+    "lon": -2.41728,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukg2100-36070",
+    "name": "River Severn at Ironbridge",
+    "district": "http://data.ordnancesurvey.co.uk/id/48615114-64d3-4b94-a133-b51bf13992bf",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36070/year/2025",
+    "lat": 52.62933,
+    "lon": -2.49179,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukg2200-36071",
+    "name": "River Severn in Shrewsbury",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043822",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36071/year/2025",
+    "lat": 52.710372,
+    "lon": -2.7567062,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukg2200-36060",
+    "name": "River Teme in Ludlow",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043822",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/36060/year/2025",
+    "lat": 52.36643,
+    "lon": -2.72537,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2304-35201",
+    "name": "River Tone at French Weir Park",
+    "district": "http://data.ordnancesurvey.co.uk/id/6edbe77d-0385-4267-b319-a5db2046fe0d",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35201/year/2025",
+    "lat": 51.01809,
+    "lon": -3.11285,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07200",
+    "name": "Robin Hoods Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07200/year/2025",
+    "lat": 54.43015948260695,
+    "lon": -0.531866931933285,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2300-05600",
+    "name": "Roker - Sunderland",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009731",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05600/year/2025",
+    "lat": 54.9257461762398,
+    "lon": -1.364919659939741,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2100-14850",
+    "name": "Rottingdean Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000036749",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14850/year/2025",
+    "lat": 50.80179,
+    "lon": -0.05673,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-06900",
+    "name": "Runswick Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06900/year/2025",
+    "lat": 54.53181308435666,
+    "lon": -0.748706406679334,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf2208-09702",
+    "name": "Rutland Water Sykes Lane",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000037528",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09702/year/2025",
+    "lat": 52.66320858080605,
+    "lon": -0.61313993149942,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf2208-09701",
+    "name": "Rutland Water Whitwell Creek",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000037528",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09701/year/2025",
+    "lat": 52.663507,
+    "lon": -0.631862,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17900",
+    "name": "Ryde",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17900/year/2025",
+    "lat": 50.73080613175428,
+    "lon": -1.149793713177086,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25200",
+    "name": "Salcombe North Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25200/year/2025",
+    "lat": 50.23012909971451,
+    "lon": -3.780566590690735,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25300",
+    "name": "Salcombe South Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25300/year/2025",
+    "lat": 50.22603027118593,
+    "lon": -3.783918780827058,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1202-06700",
+    "name": "Saltburn",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025588",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06700/year/2025",
+    "lat": 54.58679597238242,
+    "lon": -0.969778459729026,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2100-14800",
+    "name": "Saltdean",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000036749",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14800/year/2025",
+    "lat": 50.79930831490036,
+    "lon": -0.041673206528577,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13350",
+    "name": "Sandgate Granville Parade",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 51.073164967502315,
+    "lon": 1.145905463450204,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18400",
+    "name": "Sandown",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18400/year/2025",
+    "lat": 50.654947044783555,
+    "lon": -1.150612952667514,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07000",
+    "name": "Sandsend",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07000/year/2025",
+    "lat": 54.50138423331686,
+    "lon": -0.66735831817604,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4204-13000",
+    "name": "Sandwich Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017977",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13000/year/2025",
+    "lat": 51.28259786416355,
+    "lon": 1.379663263660137,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-22200",
+    "name": "Sandy Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22200/year/2025",
+    "lat": 50.60986094240923,
+    "lon": -3.368019840885045,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd6300-40752",
+    "name": "Sandy Lane, Chester",
+    "district": "http://statistics.data.gov.uk/id/statistical-geography/E06000050",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 53.1874391898726,
+    "lon": -2.87006710945084,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33700",
+    "name": "Sandymouth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33700/year/2025",
+    "lat": 50.860925775452294,
+    "lon": -4.556801840988395,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34100",
+    "name": "Saunton Sands",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34100/year/2025",
+    "lat": 51.11654312335549,
+    "lon": -4.222372667722457,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07300",
+    "name": "Scarborough North Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07300/year/2025",
+    "lat": 54.29337296091158,
+    "lon": -0.407209250068013,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07400",
+    "name": "Scarborough South Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07400/year/2025",
+    "lat": 54.28204183674201,
+    "lon": -0.395234352981026,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10310",
+    "name": "Sea Palling",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10310/year/2025",
+    "lat": 52.790656743151374,
+    "lon": 1.603939806618614,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13400",
+    "name": "Seabrook",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13400/year/2025",
+    "lat": 51.07080697611591,
+    "lon": 1.121803015201279,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2300-05500",
+    "name": "Seaburn - Sunderland",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009731",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05500/year/2025",
+    "lat": 54.937525686267996,
+    "lon": -1.366294907696416,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2203-14600",
+    "name": "Seaford",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002896",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14600/year/2025",
+    "lat": 50.771301392423304,
+    "lon": 0.09501500163392,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18000",
+    "name": "Seagrove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18000/year/2025",
+    "lat": 50.716303024289644,
+    "lon": -1.106853577320607,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1404-05800",
+    "name": "Seaham Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043607",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05800/year/2025",
+    "lat": 54.84750991362038,
+    "lon": -1.338116445554125,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1404-05700",
+    "name": "Seaham Hall Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043607",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05700/year/2025",
+    "lat": 54.85044887956588,
+    "lon": -1.341494769532371,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2102-03800",
+    "name": "Seahouses North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/03800/year/2025",
+    "lat": 55.59018054023254,
+    "lon": -1.666807530612919,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1103-45600",
+    "name": "Seascale",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45600/year/2025",
+    "lat": 54.395283881418386,
+    "lon": -3.489340855778572,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26800",
+    "name": "Seaton (Cornwall)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26800/year/2025",
+    "lat": 50.36435089286344,
+    "lon": -4.38643443196306,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-21600",
+    "name": "Seaton (Devon)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21600/year/2025",
+    "lat": 50.70335620945877,
+    "lon": -3.070515206918154,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1101-06100",
+    "name": "Seaton Carew Centre",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025589",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06100/year/2025",
+    "lat": 54.65991462463847,
+    "lon": -1.180725164551955,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1101-06000",
+    "name": "Seaton Carew North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025589",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06000/year/2025",
+    "lat": 54.66466849885708,
+    "lon": -1.186040311789457,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc1101-06200",
+    "name": "Seaton Carew North Gare",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025589",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/06200/year/2025",
+    "lat": 54.649631926600186,
+    "lon": -1.164659079919262,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2103-04700",
+    "name": "Seaton Sluice",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04700/year/2025",
+    "lat": 55.08722766387016,
+    "lon": -1.478296232612282,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21200",
+    "name": "Seatown",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21200/year/2025",
+    "lat": 50.72209005507471,
+    "lon": -2.824817306435447,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2403-15900",
+    "name": "Selsey",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016444",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15900/year/2025",
+    "lat": 50.736289294798816,
+    "lon": -0.770298440368953,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30700",
+    "name": "Sennen",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30700/year/2025",
+    "lat": 50.07874145122392,
+    "lon": -5.697623804417832,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22900",
+    "name": "Shaldon",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22900/year/2025",
+    "lat": 50.539818591210306,
+    "lon": -3.502375831944526,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18500",
+    "name": "Shanklin",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18500/year/2025",
+    "lat": 50.62698814304571,
+    "lon": -1.173158277125955,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26570",
+    "name": "Sharrow",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26570/year/2025",
+    "lat": 50.347591487423465,
+    "lon": -4.259643504303614,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1201-09801",
+    "name": "Sheep's Green, River Cam",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000001255",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09801/year/2025",
+    "lat": 52.19607,
+    "lon": 0.11683,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4209-11950",
+    "name": "Sheerness",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018242",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11950/year/2025",
+    "lat": 51.44326276918685,
+    "lon": 0.760235343877594,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-19600",
+    "name": "Shell Bay North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19600/year/2025",
+    "lat": 50.67843453077423,
+    "lon": -1.948790956624016,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10100",
+    "name": "Sheringham",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10100/year/2025",
+    "lat": 52.945955107765705,
+    "lon": 1.20851236475474,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11770",
+    "name": "Shoebury East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11770/year/2025",
+    "lat": 51.531726378852966,
+    "lon": 0.803842239043013,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11780",
+    "name": "Shoeburyness",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11780/year/2025",
+    "lat": 51.52298814071129,
+    "lon": 0.774182218494224,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2401-15200",
+    "name": "Shoreham Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016223",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15200/year/2025",
+    "lat": 50.82657968050896,
+    "lon": -0.271301418312344,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-27400",
+    "name": "Shorthorn Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/27400/year/2025",
+    "lat": 50.33761446482151,
+    "lon": -4.722965713318486,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-21900",
+    "name": "Sidmouth Jacobs Ladder",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21900/year/2025",
+    "lat": 50.67525114254649,
+    "lon": -3.247920430683992,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4301-21800",
+    "name": "Sidmouth Town",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022713",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21800/year/2025",
+    "lat": 50.67618469413079,
+    "lon": -3.243033974073603,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1103-45200",
+    "name": "Silecroft",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45200/year/2025",
+    "lat": 54.218948132063815,
+    "lon": -3.35108537499338,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09700",
+    "name": "Skegness",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09700/year/2025",
+    "lat": 53.14417404168892,
+    "lon": 0.349548479360714,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08600",
+    "name": "Skipsea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08600/year/2025",
+    "lat": 53.96195146198696,
+    "lon": -0.19017729503645,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24900",
+    "name": "Slapton Sands Monument",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24900/year/2025",
+    "lat": 50.28591183040938,
+    "lon": -3.645075514028272,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25000",
+    "name": "Slapton Sands Torcross",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25000/year/2025",
+    "lat": 50.26620429944796,
+    "lon": -3.652114272074961,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2204-05300",
+    "name": "South Shields",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009685",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05300/year/2025",
+    "lat": 54.99974636302765,
+    "lon": -1.409085633008525,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11902",
+    "name": "Southend Chalkwell",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11902/year/2025",
+    "lat": 51.53739087248782,
+    "lon": 0.672951759736441,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11830",
+    "name": "Southend Jubilee",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11830/year/2025",
+    "lat": 51.527778682731686,
+    "lon": 0.72328663806192,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11800",
+    "name": "Southend Thorpe Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11800/year/2025",
+    "lat": 51.52886881078944,
+    "lon": 0.753632019781134,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11850",
+    "name": "Southend Three Shells",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11850/year/2025",
+    "lat": 51.53298538027784,
+    "lon": 0.71206117584268,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3100-11900",
+    "name": "Southend Westcliff Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038907",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11900/year/2025",
+    "lat": 51.53536180804658,
+    "lon": 0.686965498944973,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5300-41500",
+    "name": "Southport",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005960",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41500/year/2025",
+    "lat": 53.65319869379517,
+    "lon": -3.027283040613478,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3100-16600",
+    "name": "Southsea East",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000037254",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16600/year/2025",
+    "lat": 50.7786534035037,
+    "lon": -1.079424297745562,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2401-15100",
+    "name": "Southwick",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016223",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15100/year/2025",
+    "lat": 50.82873425373243,
+    "lon": -0.235579708150519,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1407-10850",
+    "name": "Southwold The Denes",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10850/year/2025",
+    "lat": 52.319374676698395,
+    "lon": 1.678661081999749,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1407-10830",
+    "name": "Southwold The Pier",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175715",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10830/year/2025",
+    "lat": 52.33080938939501,
+    "lon": 1.686951566051651,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2102-03600",
+    "name": "Spittal",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/03600/year/2025",
+    "lat": 55.756856682381226,
+    "lon": -1.988831300159957,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4303-41800",
+    "name": "St Annes",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004985",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41800/year/2025",
+    "lat": 53.74912757964811,
+    "lon": -3.040374437657318,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd4303-41900",
+    "name": "St Annes North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000004985",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41900/year/2025",
+    "lat": 53.759732155265255,
+    "lon": -3.050875569413882,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1103-45920",
+    "name": "St Bees",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175990",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45920/year/2025",
+    "lat": 54.48992806066554,
+    "lon": -3.608570305633333,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18100",
+    "name": "St Helens",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18100/year/2025",
+    "lat": 50.69858655635361,
+    "lon": -1.098623643929827,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2202-14150",
+    "name": "St Leonards",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002583",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14150/year/2025",
+    "lat": 50.84990177939676,
+    "lon": 0.551467017008555,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4204-13200",
+    "name": "St Margaret`s Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017977",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13200/year/2025",
+    "lat": 51.1506235954886,
+    "lon": 1.385739372031037,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-24600",
+    "name": "St Mary's Bay (Devon)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24600/year/2025",
+    "lat": 50.385234188764414,
+    "lon": -3.503618601249454,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4208-13700",
+    "name": "St Mary's Bay (Kent)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025209",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/13700/year/2025",
+    "lat": 51.01058771257017,
+    "lon": 0.982304921293757,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12400",
+    "name": "St Mildred's Bay, Westgate",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12400/year/2025",
+    "lat": 51.384887262981415,
+    "lon": 1.342764656145183,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24640",
+    "name": "Steamer Quay, Dart Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24640/year/2025",
+    "lat": 50.42496,
+    "lon": -3.67869,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24620",
+    "name": "Stoke Gabriel, Dart Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24620/year/2025",
+    "lat": 50.40036,
+    "lon": -3.62295,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3305-16700",
+    "name": "Stokes Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000017378",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16700/year/2025",
+    "lat": 50.77757335746597,
+    "lon": -1.150364175942044,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-19700",
+    "name": "Studland Knoll House",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19700/year/2025",
+    "lat": 50.65207839043268,
+    "lon": -1.952837307031449,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33500",
+    "name": "Summerleaze",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33500/year/2025",
+    "lat": 50.831168031253235,
+    "lon": -4.552050639196887,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukf3102-09200",
+    "name": "Sutton-on-Sea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000005317",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/09200/year/2025",
+    "lat": 53.31461492256482,
+    "lon": 0.283819652889238,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2204-08905",
+    "name": "Swale above Richmond Falls",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": null,
+    "lat": 54.40057771187233,
+    "lon": -1.734679072511629,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2204-19800",
+    "name": "Swanage Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/19800/year/2025",
+    "lat": 50.61341975801455,
+    "lon": -1.957511535566838,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-28700",
+    "name": "Swanpool",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28700/year/2025",
+    "lat": 50.140617662512916,
+    "lon": -5.075826818894453,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4202-12120",
+    "name": "Tankerton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018139",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12120/year/2025",
+    "lat": 51.36543634344041,
+    "lon": 1.045826991432158,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22700",
+    "name": "Teignmouth Holcombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22700/year/2025",
+    "lat": 50.56188347018894,
+    "lon": -3.47464131412136,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4306-22800",
+    "name": "Teignmouth Town",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022881",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/22800/year/2025",
+    "lat": 50.545365262332695,
+    "lon": -3.493462511562593,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uki1106-11940",
+    "name": "The Serpentine - Hyde Park",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000011164",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11940/year/2025",
+    "lat": 51.50490501476789,
+    "lon": -0.169070691536189,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25600",
+    "name": "Thurlestone North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25600/year/2025",
+    "lat": 50.26393386441149,
+    "lon": -3.861806883994573,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-25500",
+    "name": "Thurlestone South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/25500/year/2025",
+    "lat": 50.260394427262284,
+    "lon": -3.858161252047522,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32320",
+    "name": "Tolcarne",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32320/year/2025",
+    "lat": 50.41766180364849,
+    "lon": -5.073472516392133,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23800",
+    "name": "Torre Abbey",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23800/year/2025",
+    "lat": 50.462437951767605,
+    "lon": -3.535992499539414,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-17500",
+    "name": "Totland Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/17500/year/2025",
+    "lat": 50.680817762452946,
+    "lon": -1.545669214184667,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32300",
+    "name": "Towan",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32300/year/2025",
+    "lat": 50.4150444662613,
+    "lon": -5.084326471601593,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33350",
+    "name": "Trebarwith Strand",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33350/year/2025",
+    "lat": 50.64496675477914,
+    "lon": -4.761636038784498,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3101-26560",
+    "name": "Tregonhawke",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26560/year/2025",
+    "lat": 50.34085546067812,
+    "lon": -4.242879702830213,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3102-31700",
+    "name": "Trevaunance Cove",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31700/year/2025",
+    "lat": 50.32038678132352,
+    "lon": -5.201232297230354,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33000",
+    "name": "Trevone Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33000/year/2025",
+    "lat": 50.54573665118223,
+    "lon": -4.977469481015343,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-32600",
+    "name": "Treyarnon Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32600/year/2025",
+    "lat": 50.52613078547197,
+    "lon": -5.022661275963966,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2203-04900",
+    "name": "Tynemouth Cullercoats",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009699",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04900/year/2025",
+    "lat": 55.03478000872418,
+    "lon": -1.431022555333661,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2203-05200",
+    "name": "Tynemouth King Edwards Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009699",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05200/year/2025",
+    "lat": 55.01932098156056,
+    "lon": -1.418995258941081,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2203-05000",
+    "name": "Tynemouth Long Sands North",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009699",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05000/year/2025",
+    "lat": 55.0304197376092,
+    "lon": -1.428675063333903,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2203-05100",
+    "name": "Tynemouth Long Sands South",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009699",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/05100/year/2025",
+    "lat": 55.0240770277515,
+    "lon": -1.423274938092462,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-31350",
+    "name": "Upton Towans",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/31350/year/2025",
+    "lat": 50.215181048375264,
+    "lon": -5.402911509386382,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-28300",
+    "name": "Vault Beach",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/28300/year/2025",
+    "lat": 50.23488377867148,
+    "lon": -4.787649664814819,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18600",
+    "name": "Ventnor",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18600/year/2025",
+    "lat": 50.59310640825722,
+    "lon": -1.209947267658163,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5400-41000",
+    "name": "Wallasey",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006068",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/41000/year/2025",
+    "lat": 53.433595652453334,
+    "lon": -3.077281007983427,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj1403-11947",
+    "name": "Wallingford Beach, River Thames",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000008253",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11947/year/2025",
+    "lat": 51.60005,
+    "lon": -1.12032,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1102-44200",
+    "name": "Walney Biggar Bank",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/44200/year/2025",
+    "lat": 54.0950172499533,
+    "lon": -3.258361064821108,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1102-44300",
+    "name": "Walney Sandy Gap",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/44300/year/2025",
+    "lat": 54.102157318181,
+    "lon": -3.263165688451287,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1102-44400",
+    "name": "Walney West Shore",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/44400/year/2025",
+    "lat": 54.120790258083154,
+    "lon": -3.271628121287912,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12630",
+    "name": "Walpole Bay, Margate",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12630/year/2025",
+    "lat": 51.392250950887004,
+    "lon": 1.399130061418621,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3311-11250",
+    "name": "Walton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019547",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11250/year/2025",
+    "lat": 51.84705828437147,
+    "lon": 1.273281114220594,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-24680",
+    "name": "Warfleet Creek, Dart Estuary",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/24680/year/2025",
+    "lat": 50.34251,
+    "lon": -3.57344,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2101-04200",
+    "name": "Warkworth",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009746",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04200/year/2025",
+    "lat": 55.35120750368777,
+    "lon": -1.592797501571366,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4200-23200",
+    "name": "Watcombe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000038883",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/23200/year/2025",
+    "lat": 50.49561770972719,
+    "lon": -3.515298325303885,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3106-32400",
+    "name": "Watergate Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/32400/year/2025",
+    "lat": 50.44375094456302,
+    "lon": -5.042622328517265,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10000",
+    "name": "Wells",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10000/year/2025",
+    "lat": 52.9735988523048,
+    "lon": 0.84908086480549,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4305-26200",
+    "name": "Wembury",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/26200/year/2025",
+    "lat": 50.317977901348236,
+    "lon": -4.085168112667163,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2205-21000",
+    "name": "West Bay (West)",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/21000/year/2025",
+    "lat": 50.710968643628284,
+    "lon": -2.766537776781116,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12350",
+    "name": "West Bay, Westgate",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12350/year/2025",
+    "lat": 51.38319742671541,
+    "lon": 1.33230604116729,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4202-12100",
+    "name": "West Beach, Whitstable",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018139",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12100/year/2025",
+    "lat": 51.3543282013388,
+    "lon": 1.011764270825496,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd5400-40750",
+    "name": "West Kirby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000006068",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/40750/year/2025",
+    "lat": 53.37049628009628,
+    "lon": -3.193165228018245,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh3306-11750",
+    "name": "West Mersea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000019569",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11750/year/2025",
+    "lat": 51.770397383556734,
+    "lon": 0.930236739496514,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukh1305-10125",
+    "name": "West Runton",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000007024",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/10125/year/2025",
+    "lat": 52.94171092852974,
+    "lon": 1.252784566705983,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2403-16100",
+    "name": "West Wittering",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016444",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/16100/year/2025",
+    "lat": 50.776494304924896,
+    "lon": -0.912101831012926,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj4210-12450",
+    "name": "Westbrook Bay, Margate",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000018130",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/12450/year/2025",
+    "lat": 51.38613803927582,
+    "lon": 1.363168673097685,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1202-35800",
+    "name": "Weston Main",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025504",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35800/year/2025",
+    "lat": 51.34124950897945,
+    "lon": -2.983376453172808,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1202-35900",
+    "name": "Weston-super-Mare Sand Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025504",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35900/year/2025",
+    "lat": 51.36447617689369,
+    "lon": -2.966090885973957,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk1202-35700",
+    "name": "Weston-super-Mare Uphill Slipway",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025504",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/35700/year/2025",
+    "lat": 51.32470854613234,
+    "lon": -2.99031356730742,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4307-33900",
+    "name": "Westward Ho!",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022970",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33900/year/2025",
+    "lat": 51.0437632688899,
+    "lon": -4.236176438537621,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20700",
+    "name": "Weymouth Central",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20700/year/2025",
+    "lat": 50.614446773533786,
+    "lon": -2.452231804596249,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk2206-20600",
+    "name": "Weymouth Lodmoor",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175988",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/20600/year/2025",
+    "lat": 50.62587065787878,
+    "lon": -2.442162623042448,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke4100-08901",
+    "name": "Wharfe at Cromwheel, Ilkley",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016726",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08901/year/2025",
+    "lat": 53.93188669519488,
+    "lon": -1.816182633584011,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke4200-08904",
+    "name": "Wharfe at Wilderness Carpark",
+    "district": "http://data.ordnancesurvey.co.uk/id/2e1e287a-76e4-425f-8431-a77c389df6cd",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08904/year/2025",
+    "lat": 53.92655,
+    "lon": -1.38542,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3105-30500",
+    "name": "Wherry Town",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/30500/year/2025",
+    "lat": 50.10891717077118,
+    "lon": -5.544900667001265,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke2206-07100",
+    "name": "Whitby",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022028",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/07100/year/2025",
+    "lat": 54.49170190701437,
+    "lon": -0.624582951581293,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18300",
+    "name": "Whitecliff Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18300/year/2025",
+    "lat": 50.671933347827874,
+    "lon": -1.094251144937834,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukc2203-04800",
+    "name": "Whitley Bay",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000009699",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/04800/year/2025",
+    "lat": 55.04889045289796,
+    "lon": -1.445143727316345,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk3104-33400",
+    "name": "Widemouth Sand",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000043750",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/33400/year/2025",
+    "lat": 50.793089011925076,
+    "lon": -4.55763724415553,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08200",
+    "name": "Wilsthorpe",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08200/year/2025",
+    "lat": 54.066240104944484,
+    "lon": -0.207501208719827,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2204-14000",
+    "name": "Winchelsea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000002852",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/14000/year/2025",
+    "lat": 50.906400668932136,
+    "lon": 0.718147800278008,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1203-45700",
+    "name": "Windermere, Fellfoot",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45700/year/2025",
+    "lat": 54.274517826926775,
+    "lon": -2.953765741222596,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1203-45625",
+    "name": "Windermere, Lakeside YMCA",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45625/year/2025",
+    "lat": 54.30040358552448,
+    "lon": -2.961464279216157,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1203-45650",
+    "name": "Windermere, Millerground Landing",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45650/year/2025",
+    "lat": 54.380713971346744,
+    "lon": -2.922541305375967,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukd1203-45675",
+    "name": "Windermere, Rayrigg Meadow",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000175989",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/45675/year/2025",
+    "lat": 54.3781618660443,
+    "lon": -2.922499452360544,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "uke1200-08900",
+    "name": "Withernsea",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025635",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/08900/year/2025",
+    "lat": 53.73083311626485,
+    "lon": 0.036014677995315,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj1402-11946",
+    "name": "Wolvercote Mill Stream",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000008448",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/11946/year/2025",
+    "lat": 51.78081990807167,
+    "lon": -1.295961521722681,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukk4304-34400",
+    "name": "Woolacombe Village",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000022933",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/34400/year/2025",
+    "lat": 51.17164430892172,
+    "lon": -4.209713896735271,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2407-15400",
+    "name": "Worthing",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016261",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15400/year/2025",
+    "lat": 50.80725993550858,
+    "lon": -0.384825087481915,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj2407-15350",
+    "name": "Worthing Beach House",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000016261",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/15350/year/2025",
+    "lat": 50.81068,
+    "lon": -0.36086,
+    "sourceType": "official-ea"
+  },
+  {
+    "id": "ukj3400-18350",
+    "name": "Yaverland",
+    "district": "http://data.ordnancesurvey.co.uk/id/7000000000025469",
+    "waterCompany": null,
+    "classification": "http://environment.data.gov.uk/data/bathing-water-quality/compliance-rBWD/point/18350/year/2025",
+    "lat": 50.66179758773984,
+    "lon": -1.133213855766716,
+    "sourceType": "official-ea"
+  }
+]
