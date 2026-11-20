@@ -47,7 +47,6 @@
       overflow: hidden;
     }
 
-    /* Top App Header */
     .app-header {
       background: linear-gradient(90deg, var(--blue-deep), var(--blue-top));
       color: #fff;
@@ -83,7 +82,6 @@
     }
     .btn-sync:disabled { opacity: 0.65; cursor: wait; }
 
-    /* Filter & Search Bar */
     .controls {
       background: var(--card);
       border-bottom: 1px solid var(--border);
@@ -127,7 +125,6 @@
       border-color: var(--blue-deep);
     }
 
-    /* Main Split Workspace */
     .workspace {
       flex: 1;
       display: grid;
@@ -228,7 +225,6 @@
       box-shadow: 0 1px 5px rgba(0,0,0,0.45);
     }
 
-    /* Pop-Up Window Modal Matching Reference Screenshot (7050.png) */
     .modal-backdrop {
       position: fixed;
       inset: 0;
@@ -342,26 +338,11 @@
       padding: 13px 14px;
       background: #fff;
     }
-    .box-card.class-excellent {
-      background: var(--excellent-bg);
-      border-color: var(--excellent-border);
-    }
-    .box-card.class-good {
-      background: var(--good-bg);
-      border-color: #bae6fd;
-    }
-    .box-card.class-sufficient {
-      background: var(--sufficient-bg);
-      border-color: #fde68a;
-    }
-    .box-card.class-poor {
-      background: var(--poor-bg);
-      border-color: #fecaca;
-    }
-    .box-card.class-new {
-      background: var(--new-bg);
-      border-color: #ddd6fe;
-    }
+    .box-card.class-excellent { background: var(--excellent-bg); border-color: var(--excellent-border); }
+    .box-card.class-good { background: var(--good-bg); border-color: #bae6fd; }
+    .box-card.class-sufficient { background: var(--sufficient-bg); border-color: #fde68a; }
+    .box-card.class-poor { background: var(--poor-bg); border-color: #fecaca; }
+    .box-card.class-new { background: var(--new-bg); border-color: #ddd6fe; }
 
     .class-top {
       display: flex;
@@ -377,11 +358,7 @@
       text-transform: uppercase;
       color: #475569;
     }
-    .class-desc {
-      font-size: 0.82rem;
-      color: #334155;
-      line-height: 1.4;
-    }
+    .class-desc { font-size: 0.82rem; color: #334155; line-height: 1.4; }
 
     .window-row {
       display: flex;
@@ -422,16 +399,8 @@
       font-weight: 700;
       text-align: center;
     }
-    .benchmark-banner.warn {
-      background: #fffbeb;
-      border-color: #fde68a;
-      color: #92400e;
-    }
-    .benchmark-banner.poor {
-      background: #fef2f2;
-      border-color: #fecaca;
-      color: #991b1b;
-    }
+    .benchmark-banner.warn { background: #fffbeb; border-color: #fde68a; color: #92400e; }
+    .benchmark-banner.poor { background: #fef2f2; border-color: #fecaca; color: #991b1b; }
 
     .advisory-title {
       font-size: 0.74rem;
@@ -441,11 +410,7 @@
       color: #334155;
       margin-bottom: 4px;
     }
-    .advisory-text {
-      font-size: 0.8rem;
-      color: #334155;
-      line-height: 1.4;
-    }
+    .advisory-text { font-size: 0.8rem; color: #334155; line-height: 1.4; }
 
     .data-origin-note {
       font-size: 0.73rem;
@@ -517,7 +482,6 @@
     <div id="map"></div>
   </main>
 
-  <!-- Pop-Up Window Matching Screenshot 7050.png -->
   <div id="popupModal" class="modal-backdrop" onclick="onBackdropClick(event)">
     <div class="popup-window" role="dialog" aria-modal="true" aria-labelledby="pTitle">
       <div class="popup-topbar">
@@ -552,7 +516,7 @@
             <span class="window-label">Monitoring Window Status</span>
             <span id="pSeasonStatus" class="window-status-out">Out of Season</span>
           </div>
-          <div id="pSampleInfo" class="window-sub">Latest recorded statutory sample: 2026-09-20 (60 days ago).</div>
+          <div id="pSampleInfo" class="window-sub">Latest recorded statutory sample: 2026-09-20.</div>
         </div>
 
         <div class="box-card">
@@ -616,7 +580,7 @@
 
     function buildRegistry() {
       const counts = { England: 0, Wales: 0, Scotland: 0, "Northern Ireland": 0 };
-      const list = CORE_SITES.map((s, idx) => {
+      const list = CORE_SITES.map((s) => {
         counts[s.nation]++;
         const def = BASE_SAMPLES[s.rating] || BASE_SAMPLES.Good;
         return {
@@ -739,7 +703,7 @@
         const raw = localStorage.getItem(STORAGE_KEY);
         if (raw) {
           const parsed = JSON.parse(raw);
-          if (Array.isArray(parsed) && parsed.length >= 700) {
+          if (Array.isArray(parsed) && parsed.length > 0) {
             sites = parsed;
             return;
           }
@@ -754,7 +718,7 @@
       } catch (e) {}
     }
 
-        function normalizeKey(str) {
+    function normalizeKey(str) {
       return String(str || '')
         .toLowerCase()
         .replace(/\bbathing water\b|\bbeach\b|\bsands\b|\bbay\b|\briver\b|\blake\b/g, '')
@@ -779,6 +743,75 @@
       if (s.includes('sufficient')) return 'Sufficient';
       if (s.includes('poor')) return 'Poor';
       return null;
+    }
+
+    async function loadSnapshotData() {
+      try {
+        const res = await fetch('./data/bathing_waters.json', { cache: 'no-store' });
+        if (!res.ok) return false;
+
+        const snapshot = await res.json();
+        if (!Array.isArray(snapshot) || snapshot.length === 0) return false;
+
+        const byId = new Map();
+        const byName = new Map();
+        sites.forEach((s, idx) => {
+          if (s.id) byId.set(String(s.id).toLowerCase(), idx);
+          byName.set(normalizeKey(s.name), idx);
+        });
+
+        let matched = 0;
+        snapshot.forEach((row) => {
+          const idKey = String(row.id || '').toLowerCase();
+          const nameKey = normalizeKey(row.name);
+          let idx = idKey && byId.has(idKey) ? byId.get(idKey) : (nameKey ? byName.get(nameKey) : undefined);
+
+          const mappedRating = mapRating(row.classification) || mapRating(row.rating);
+          const lat = typeof row.lat === 'number' ? row.lat : parseFloat(row.lat);
+          const lng = typeof row.lon === 'number' ? row.lon : (typeof row.lng === 'number' ? row.lng : parseFloat(row.lng));
+
+          if (idx !== undefined) {
+            if (row.name) sites[idx].name = row.name;
+            if (row.district) sites[idx].region = row.district;
+            if (mappedRating) sites[idx].rating = mappedRating;
+            if (!Number.isNaN(lat) && !Number.isNaN(lng)) {
+              sites[idx].lat = lat;
+              sites[idx].lng = lng;
+            }
+            sites[idx].isLive = true;
+            sites[idx].sourceLabel = 'EA Snapshot (data/bathing_waters.json)';
+            matched++;
+          } else if (row.name && !Number.isNaN(lat) && !Number.isNaN(lng)) {
+            const rating = mappedRating || 'Good';
+            const def = BASE_SAMPLES[rating] || BASE_SAMPLES.Good;
+            sites.push({
+              id: row.id || `ea-${sites.length + 1}`,
+              name: row.name,
+              nation: 'England',
+              region: row.district || 'England',
+              agency: 'Environment Agency',
+              lat,
+              lng,
+              rating,
+              waterType: 'Coastal',
+              ecoli: def.ecoli,
+              ie: def.ie,
+              sampleDate: def.date,
+              isLive: true,
+              refreshedAt: null,
+              sourceLabel: 'EA Snapshot (data/bathing_waters.json)'
+            });
+            matched++;
+          }
+        });
+
+        persistSites();
+        console.log('Loaded snapshot records:', matched);
+        return matched > 0;
+      } catch (err) {
+        console.warn('Snapshot load skipped:', err);
+        return false;
+      }
     }
 
     function mergeLiveData(items) {
@@ -882,276 +915,19 @@
       }
 
       btn.disabled = false;
-      updateCounts();
-      render();
-      if (activeSiteId) {
-        const current = sites.find(s => s.id === activeSiteId);
-        if (current) openPopup(current);
-      }
-    }
-
-function daysAgo(dateStr) {
-      const d = new Date(`${dateStr}T00:00:00Z`);
-      if (isNaN(d.getTime())) return 60;
-      const now = new Date();
-      return Math.max(0, Math.round((now - d) / 86400000));
-    }
-
-    function isOutOfSeason() {
-      // Statutory bathing season in England/Wales/NI/Scotland is typically May 15 to Sep 30; Nov 19 is Out of Season
-      const now = new Date();
-      const m = now.getUTCMonth() + 1;
-      const day = now.getUTCDate();
-      if (m > 9 || m < 5) return true;
-      if (m === 5 && day < 15) return true;
-      return false;
-    }
-
-    function openPopup(site) {
-      activeSiteId = site.id;
-
-      document.getElementById('pRegion').textContent = `${site.region} • ${site.nation}`.toUpperCase();
-      document.getElementById('pTitle').textContent = site.name;
-      document.getElementById('pSub').textContent = `${site.agency} • ID: ${site.id}`;
-
-      // Save & share state
-      const saveBtn = document.getElementById('saveBtn');
-      const isSaved = savedIds.has(site.id);
-      saveBtn.textContent = isSaved ? '★ Saved' : '☆ Save Beach';
-      saveBtn.className = isSaved ? 'btn-sec saved' : 'btn-sec';
-
-      // Statutory classification card
-      const clsCard = document.getElementById('pClassCard');
-      const clsBadge = document.getElementById('pClassBadge');
-      const rKey = ['Excellent', 'Good', 'Sufficient', 'Poor', 'New'].includes(site.rating) ? site.rating : 'Good';
-      clsCard.className = `box-card class-${rKey.toLowerCase()}`;
-      clsBadge.className = `badge b-${rKey}`;
-      clsBadge.textContent = rKey === 'New' ? '2026 New' : rKey;
-
-      // Monitoring window status
-      const outSeason = isOutOfSeason();
-      const sEl = document.getElementById('pSeasonStatus');
-      sEl.textContent = outSeason ? 'Out of Season' : 'In Season';
-      sEl.className = outSeason ? 'window-status-out' : 'window-status-in';
-      const ago = daysAgo(site.sampleDate);
-      document.getElementById('pSampleInfo').textContent = `Latest recorded statutory sample: ${site.sampleDate} (${ago} days ago).`;
-
-      // Spot sample bacteria
-      document.getElementById('pEcoli').textContent = `${site.ecoli} cfu`;
-      document.getElementById('pIe').textContent = `${site.ie} cfu`;
-
-      const banner = document.getElementById('pBenchBanner');
-      if (site.ecoli <= 250 && site.ie <= 100) {
-        banner.className = 'benchmark-banner';
-        banner.textContent = 'Within Excellent spot benchmark (≤250 EC / ≤100 IE)';
-      } else if (site.ecoli <= 500 && site.ie <= 200) {
-        banner.className = 'benchmark-banner warn';
-        banner.textContent = 'Within Good spot benchmark (≤500 EC / ≤200 IE)';
-      } else {
-        banner.className = 'benchmark-banner poor';
-        banner.textContent = 'Above Good spot benchmark (>500 EC or >200 IE)';
-      }
-
-      // Off-season advisory
-      const advCard = document.getElementById('pAdvisoryCard');
-      const advText = document.getElementById('pAdvisoryText');
-      if (outSeason) {
-        advCard.style.display = 'block';
-        advText.textContent = 'Routine statutory sampling pauses between 1 October and 14 May. Winter swells and runoff can temporarily affect water quality.';
-      } else {
-        advCard.style.display = 'none';
-      }
-
-      // Live vs Unrefreshed indicator inside modal
-      document.getElementById('pTopSource').textContent = site.isLive ? 'DATA SOURCE: LIVE API SYNCED' : 'DATA SOURCE: UNREFRESHED / BASELINE';
-      document.getElementById('pTopTime').textContent = site.isLive ? `Refreshed ${site.refreshedAt}` : 'Not refreshed from live API';
-      document.getElementById('pOriginDetail').textContent = site.isLive
-        ? `Live API data synced at ${site.refreshedAt}`
-        : 'Using built-in registry / cached data (not yet refreshed by live API)';
-
-      // Official profile link
-      const profLink = document.getElementById('pProfileLink');
-      if (site.agency === 'Environment Agency') {
-        profLink.textContent = 'View Official Environment Agency Profile ↗';
-        profLink.href = site.profileUrl || `https://environment.data.gov.uk/bwq/profiles/profile.html?site=${encodeURIComponent(site.id)}`;
-      } else if (site.agency === 'Natural Resources Wales') {
-        profLink.textContent = 'View Natural Resources Wales Bathing Water Info ↗';
-        profLink.href = 'https://naturalresources.wales/bathing-water-quality';
-      } else if (site.agency === 'SEPA') {
-        profLink.textContent = 'View SEPA Bathing Water Profile ↗';
-        profLink.href = 'https://informatics.sepa.org.uk/BathingWaters';
-      } else {
-        profLink.textContent = 'View DAERA / NIEA Bathing Water Info ↗';
-        profLink.href = 'https://www.daera-ni.gov.uk/articles/bathing-water-quality';
-      }
-
-      document.getElementById('popupModal').classList.add('open');
-      map.setView([site.lat, site.lng], 13);
-      renderListOnly();
-    }
-
-    function closePopup() {
-      activeSiteId = null;
-      document.getElementById('popupModal').classList.remove('open');
-      renderListOnly();
-    }
-
-    function onBackdropClick(e) {
-      if (e.target.id === 'popupModal') closePopup();
-    }
-
-    function toggleSaveSite() {
-      if (!activeSiteId) return;
-      if (savedIds.has(activeSiteId)) savedIds.delete(activeSiteId);
-      else savedIds.add(activeSiteId);
-      try { localStorage.setItem(SAVED_KEY, JSON.stringify([...savedIds])); } catch (e) {}
-      const current = sites.find(s => s.id === activeSiteId);
-      if (current) openPopup(current);
-    }
-
-    function shareSiteLink() {
-      const current = sites.find(s => s.id === activeSiteId);
-      if (!current) return;
-      const url = `${window.location.origin}${window.location.pathname}?site=${encodeURIComponent(current.id)}`;
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(url).catch(() => {});
-      }
-      alert(`Link ready for ${current.name}:
-${url}`);
-    }
-
-    let map, clusterGroup;
-    let activeNation = 'ALL';
-    let activeSource = 'ALL';
-    let searchQuery = '';
-
-    const RATING_COLORS = {
-      Excellent: '#10b981',
-      Good: '#0284c7',
-      Sufficient: '#d97706',
-      Poor: '#dc2626',
-      New: '#7c3aed'
-    };
-
-    function initMap() {
-      map = L.map('map').setView([54.4875, -0.6145], 6);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 18,
-        attribution: '&copy; OpenStreetMap • EA / NRW / SEPA / DAERA'
-      }).addTo(map);
-      clusterGroup = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 45 });
-      map.addLayer(clusterGroup);
-    }
-
-    function updateCounts() {
-      const liveCount = sites.filter(s => s.isLive).length;
-      const cachedCount = sites.length - liveCount;
-      document.getElementById('headerCounts').textContent = `${sites.length} UK Bathing Waters • ${liveCount} Live Synced • ${cachedCount} Baseline/Cached`;
-
-      const nCounts = { ALL: sites.length, England: 0, Wales: 0, Scotland: 0, "Northern Ireland": 0 };
-      sites.forEach(s => { if (nCounts[s.nation] !== undefined) nCounts[s.nation]++; });
-      document.querySelectorAll('#nationBar .chip').forEach(btn => {
-        const n = btn.dataset.nation;
-        const lbl = n === 'ALL' ? 'All UK' : (n === 'Northern Ireland' ? 'N. Ireland' : n);
-        btn.textContent = `${lbl} (${nCounts[n] || 0})`;
-      });
-    }
-
-    function getFiltered() {
-      const q = searchQuery.toLowerCase().trim();
-      return sites.filter(s => {
-        if (activeNation !== 'ALL' && s.nation !== activeNation) return false;
-        if (activeSource === 'LIVE' && !s.isLive) return false;
-        if (activeSource === 'CACHED' && s.isLive) return false;
-        if (q) {
-          const hay = `${s.name} ${s.region} ${s.nation} ${s.id} ${s.agency}`.toLowerCase();
-          if (!hay.includes(q)) return false;
-        }
-        return true;
-      });
-    }
-
-    function renderListOnly() {
-      const filtered = getFiltered();
-      document.getElementById('resultCount').textContent = `Showing ${filtered.length} of ${sites.length} sites`;
-      const listEl = document.getElementById('siteList');
-      listEl.innerHTML = '';
-
-      filtered.slice(0, 150).forEach(s => {
-        const card = document.createElement('div');
-        card.className = `site-card ${s.id === activeSiteId ? 'active-site' : ''}`;
-        card.innerHTML = `
-          <div class="card-top">
-            <div>
-              <div class="card-name">${s.name}</div>
-              <div class="card-sub">${s.region} • ${s.nation} • EC: ${s.ecoli} cfu / IE: ${s.ie} cfu</div>
-            </div>
-            <span class="badge b-${s.rating}">${s.rating === 'New' ? '2026 New' : s.rating}</span>
-          </div>
-          <div class="card-bottom">
-            <span class="src-tag ${s.isLive ? 'src-live' : 'src-cached'}">${s.isLive ? `Live (${s.refreshedAt})` : 'Baseline / Not Refreshed'}</span>
-            <span style="color:#64748b;">Sample: ${s.sampleDate}</span>
-          </div>
-        `;
-        card.onclick = () => openPopup(s);
-        listEl.appendChild(card);
-      });
-    }
-
-    function render() {
-      const filtered = getFiltered();
-      renderListOnly();
-
-      clusterGroup.clearLayers();
-      const markers = filtered.map(s => {
-        const color = RATING_COLORS[s.rating] || '#0284c7';
-        const icon = L.divIcon({
-          className: '',
-          html: `<div class="custom-pin" style="background:${color}"></div>`,
-          iconSize: [16, 16],
-          iconAnchor: [8, 8]
-        });
-        const m = L.marker([s.lat, s.lng], { icon });
-        m.on('click', () => openPopup(s));
-        return m;
-      });
-      clusterGroup.addLayers(markers);
-    }
-
-    document.getElementById('nationBar').addEventListener('click', (e) => {
-      const btn = e.target.closest('.chip');
-      if (!btn) return;
-      document.querySelectorAll('#nationBar .chip').forEach(c => c.classList.remove('active'));
-      btn.classList.add('active');
-      activeNation = btn.dataset.nation;
-      render();
-    });
-
-    document.getElementById('sourceBar').addEventListener('click', (e) => {
-      const btn = e.target.closest('.chip');
-      if (!btn) return;
-      document.querySelectorAll('#sourceBar .chip').forEach(c => c.classList.remove('active'));
-      btn.classList.add('active');
-      activeSource = btn.dataset.source;
-      render();
-    });
-
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-      searchQuery = e.target.value;
-      render();
-    });
-
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js').catch(() => {});
-      });
+      if (typeof updateCounts === 'function') updateCounts();
+      if (typeof render === 'function') render();
     }
 
     loadState();
-    initMap();
-    updateCounts();
-    render();
-    refreshLiveAPI();
+    loadSnapshotData().then((loaded) => {
+      if (loaded) {
+        document.getElementById('syncBadge').textContent = 'EA Snapshot Loaded';
+        document.getElementById('lastRefreshLabel').textContent = 'Loaded from data/bathing_waters.json';
+      }
+      if (typeof updateCounts === 'function') updateCounts();
+      if (typeof render === 'function') render();
+    });
   </script>
 </body>
 </html>
