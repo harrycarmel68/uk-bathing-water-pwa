@@ -14,24 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
-      - name: Run Environment Agency refresh script
-        run: python scripts/update_data.py
-
-      - name: Commit and push updated data if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/bathing_waters.json
-          if git diff --staged --quiet; then
-            echo "No data changes to commit."
-          else
-            git commit -m "chore: refresh Environment Agency bathing water data"
-            git push
-          fi
+      - name: Run throttle test script
+        run: python scripts/test_throttle.py
