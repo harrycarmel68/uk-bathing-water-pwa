@@ -1,11 +1,12 @@
 import json
-import os
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
 API_URL = (
     "https://environment.data.gov.uk/doc/bathing-water.json"
-    "?_view=bathing-water&_pageSize=1000&_page=0"
+    "?_view=bathing-water&_pageSize=500&_page=0"
 )
 OUTPUT_PATH = Path("data/bathing_waters.json")
 
@@ -21,17 +22,48 @@ def _extract_value(field):
     return field
 
 
-def fetch_bathing_waters(url: str = API_URL) -> list[dict]:
+def _fetch_json_with_retry(url: str, max_attempts: int = 5, base_delay: float = 5.0) -> dict:
     req = urllib.request.Request(
         url,
         headers={
             "Accept": "application/json",
-            "User-Agent": "UK-Bathing-Water-PWA/1.0",
+            "User-Agent": "UK-Bathing-Water-PWA/1.0 (+https://github.com/harrycarmel68/uk-bathing-water-pwa)",
         },
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        payload = json.loads(resp.read().decode("utf-8"))
 
+    for attempt in range(1, max_attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            retryable = exc.code in (429, 500, 502, 503, 504)
+            if not retryable or attempt == max_attempts:
+                raise
+            retry_after = exc.headers.get("Retry-After") if exc.headers else None
+            if retry_after and retry_after.isdigit():
+                sleep_for = max(float(retry_after), base_delay)
+            else:
+                sleep_for = base_delay * (2 ** (attempt - 1))
+            print(
+                f"HTTP {exc.code} from EA API (attempt {attempt}/{max_attempts}). "
+                f"Waiting {sleep_for:.1f}s before retrying..."
+            )
+            time.sleep(sleep_for)
+        except urllib.error.URLError as exc:
+            if attempt == max_attempts:
+                raise
+            sleep_for = base_delay * (2 ** (attempt - 1))
+            print(
+                f"Network error ({exc.reason}) on attempt {attempt}/{max_attempts}. "
+                f"Waiting {sleep_for:.1f}s before retrying..."
+            )
+            time.sleep(sleep_for)
+
+    raise RuntimeError("Exhausted retry attempts.")
+
+
+def fetch_bathing_waters(url: str = API_URL) -> list[dict]:
+    payload = _fetch_json_with_retry(url)
     items = payload.get("result", {}).get("items", [])
     records = []
 
@@ -50,7 +82,6 @@ def fetch_bathing_waters(url: str = API_URL) -> list[dict]:
             item.get("_about")
         )
 
-        # Ensure numeric coordinates when present
         try:
             lat = float(lat) if lat is not None else None
         except (TypeError, ValueError):
@@ -73,7 +104,6 @@ def fetch_bathing_waters(url: str = API_URL) -> list[dict]:
             }
         )
 
-    # Sort deterministically by name so diffs stay clean across runs
     records.sort(key=lambda r: (r["name"] or "").lower())
     return records
 
