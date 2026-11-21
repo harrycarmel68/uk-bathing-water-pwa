@@ -1,8 +1,9 @@
-const CACHE_NAME = 'cleancoast-uk-v8';
+const CACHE_NAME = 'cleancoast-uk-v9';
 const STATIC_ASSETS = [
   './',
   './index.html',
   './manifest.json',
+  './data/bathing_waters.json',
   './icons/icon-192.png',
   './icons/icon-512.png'
 ];
